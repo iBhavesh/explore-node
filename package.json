@@ -1,0 +1,19 @@
+{
+  "name": "explore-node",
+  "version": "1.0.0",
+  "description": "A socket.io node backend for explore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iBhavesh/explore-node.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/iBhavesh/explore-node/issues"
+  },
+  "homepage": "https://github.com/iBhavesh/explore-node#readme"
+}
